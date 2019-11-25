@@ -1,11 +1,4 @@
 %[ecuacion,pendiente,ordenada]=proy_lin(x)
-%DATOS INFORMATIVOS
-%Universidad Politécnica Salesiana
-%Exámen de Métodos Numéricos
-%Nombre: 
-%Materia: Métodos Numéricos
-%Ciclo:
-%Carrera:
 %EJECUCIÓN DEL PROGRAMA
 %En el siguiente código encontramos la ecuacion de la recta
 %mediante mínimos cuadrados, constituida por la pendiente (m)  y
